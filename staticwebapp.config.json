@@ -1,0 +1,12 @@
+{
+  "navigationFallback": {
+    "rewrite": "/index.html"
+  },
+  "routes": [
+    {
+      "route": "/*",
+      "redirect": "https://flypremierairlines.com/{matchedRoute}",
+      "statusCode": 301
+    }
+  ]
+}
