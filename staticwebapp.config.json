@@ -5,7 +5,7 @@
   "routes": [
     {
       "route": "/*",
-      "redirect": "https://flypremierairlines.com/{matchedRoute}",
+      "redirect": "https://flypremierairline.com/{matchedRoute}",
       "statusCode": 301
     }
   ]
